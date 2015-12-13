@@ -1,0 +1,6 @@
+[submodule "SglXml"]
+	path = SglXml
+	url = https://github.com/SquareGearsLogic/SglXml.git
+[submodule "SglStringUtils"]
+	path = SglStringUtils
+	url = https://github.com/SquareGearsLogic/SglStringUtils.git
